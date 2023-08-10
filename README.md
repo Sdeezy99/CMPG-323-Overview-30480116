@@ -12,6 +12,9 @@ This README File entails and explains everything in this project:
 - CMPG-323 Project 3-30480116
 - CMPG-323 Project 4-30480116
 - CMPG-323 Project 5-30480116
-  
+
+
+
+## The picture below shows how the repository will be intergrated on each project.
 
 
