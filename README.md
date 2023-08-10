@@ -1,3 +1,5 @@
+![Agile(Scrum) (1)](https://github.com/Sdeezy99/CMPG-323-Overview-30480116/assets/140965300/5981c305-e867-402b-8bf0-4cc11c327d1a)
+
 # CMPG-323-Overview-30480116
 Project 1
 
