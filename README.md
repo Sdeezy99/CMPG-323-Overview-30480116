@@ -15,6 +15,9 @@ This README File entails and explains everything in this project:
 
 
 
-## The picture below shows how the repository will be intergrated on each project.
+## The picture below shows how the repository will be intergrated on each project using the project tasks . 
+![FLow Diagram drawio](https://github.com/Sdeezy99/CMPG-323-Overview-30480116/assets/140965300/c4b3c296-b41f-4411-91ff-ea19eefab229)
+
+
 
 
